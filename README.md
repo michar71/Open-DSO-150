@@ -94,8 +94,8 @@ AutoCal data well be lost after restoring the default settings.
 Digital Signals can be connected to PB13/PB14/PB15. There's no protection on those ports so it better be max 3.3V logic level....
 
 ## Building Open DSO-150
-Open DSO-150 should build directly after opening the project in the free STM32 version of Atollic trueSTUDIO.
-https://atollic.com/truestudio/
+Open DSO-150 should build directly after opening the project in the free STM32 version of STM32CubeIDE.
+https://www.st.com/en/development-tools/stm32cubeide.html
 
 It should also compile under the System Workbench for STM32 after creating a new project and importing the source files but I haven't tried that...
 
